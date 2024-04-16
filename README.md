@@ -6,7 +6,7 @@
         eu.setNome(🙋‍♀️: "Manuella");
         eu.setGenero("Feminino");
         eu.setFormacao(🎓:"Análise e Desenvolvimento de Sistemas no Instituto Federal do Rio Grande do Sul");
-        eu.setHabilidades(💻:"Java, Programação Orientada a Objetos, Banco de Dados, experiência prática com gerenciamento de servidores, domínio de frameworks, habilidades sólidas em conexões com banco de dados e familiaridade com a integração de APIs.");
+        eu.setHabilidades(💻:"Java, sólida compreensão da Programação Orientada a Objetos, habilidades avançadas com manipulação e conexão de Banco de Dados, experiência prática com gerenciamento de Servidores, domínio de Frameworks e familiaridade com a integração de APIs.");
         eu.setAprendendo(📚:"Aprendendo atualmente Padrões de Projetos, Gerência de Projeto, Spring, Hibernate e JPA");
         eu.setBuscando(🔍:"Buscando uma oportunidade de estágio na área!");
         eu.setQualidades(⚡:"Comprometida com prazos, orientada a resultados, persistente ao encontro de soluções, adepta as necessidades, anseio constante por crescimento profissional e quaisquer oportunidades que agreguem conhecimento");
