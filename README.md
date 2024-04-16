@@ -27,6 +27,7 @@ class Desenvolvedor {
     private String buscando;
     private String qualidades;
     private String tempoDisponivel;
+    private String idioma;
 
     🛠️ // Insira aqui os métodos getters e setters
 
