@@ -4,7 +4,7 @@ Eu sou a **Manuella**, uma aspirante a analista e desenvolvedora de sistemas com
 
 ## 🎓 Formação
 
-Cursando Análise e Desenvolvimento de Sistemas, na Instituição Federal do Rio Grande do Sul - IFRS.
+Cursando Análise e Desenvolvimento de Sistemas, na Instituição Federal do Rio Grande do Sul(IFRS).
 
 ## 💡 Habilidades
 
