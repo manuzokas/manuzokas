@@ -1,24 +1,27 @@
 # 🚀 Olá, Universo! 🚀
 
-Eu sou a **Manuella**, uma aspirante a desenvolvedora de software com um amor profundo por tudo que é tecnologia. 👩‍💻
+Eu sou a **Manuella**, uma aspirante a analista e desenvolvedora de sistemas com uma ambição contínua por conhecimentos no mundo da programação.
 
 ## 🎓 Formação
 
-Sou estudante de Análise e Desenvolvimento de Sistemas no Instituto Federal do Rio Grande do Sul, onde estou aprendendo a criar soluções incríveis e eficientes.
+Cursando Análise e Desenvolvimento de Sistemas, na Instituição Federal do Rio Grande do Sul - IFRS.
 
 ## 💡 Habilidades
 
-- **Java:** Eu falo Java como uma segunda língua e adoro usar suas características avançadas para escrever código limpo e otimizado.
-- **Programação Orientada a Objetos (POO):** Eu vejo o mundo através das lentes da POO, criando software modular e reutilizável.
-- **Banco de Dados:** Eu posso fazer um banco de dados cantar e dançar, criando esquemas eficientes e realizando consultas complexas.
+- **Java:** Conhecimento específico, constante e aprofundado nessa linguagem de programação.
+- **Programação Orientada a Objetos (POO):** Conhecimento avançado em programação orientada a objetos.
+- **Banco de Dados:** Conhecimento avançado em banco de dados, incluindo criação, manipulação, mapeamentos de banco relacionais e conexões.
+- **Servidores:** Experiência com gerenciamento de servidores.
+- **Frameworks:** Familiarização com Spring.
+- **APIs:** Familiarização com integração de APIs.
 
 ## 🌱 Aprendizado Atual
 
-Estou atualmente mergulhando no mundo dos Padrões de Projetos, Gerência de Projeto, Spring, Hibernate e JPA. Estou sempre buscando expandir meu conjunto de habilidades e aprender algo novo.
+Estou atualmente mergulhando no mundo dos Padrões de Projetos, Gerência de Projeto, JPA e Redis.
 
 ## 🔍 Oportunidades
 
-Estou em busca de uma oportunidade de estágio na área! Se você está procurando alguém que é comprometida com prazos, orientada a resultados e persistente na busca de soluções, eu posso ser a pessoa que você está procurando!
+Estou em busca de uma oportunidade de estágio na área! Se você está procurando por alguém que é comprometida com prazos, com flexibilidade de tempo (manhã e tarde livres), orientada a resultados e persistente na busca de soluções, eu posso ser a pessoa que você está procurando!
 
 ## ⏰ Disponibilidade
 
