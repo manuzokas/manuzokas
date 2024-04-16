@@ -4,7 +4,7 @@
         Desenvolvedor eu = new Desenvolvedor();
 
         eu.setNome(🙋‍♀️: "Manuella");
-        eu.setGenero("Feminino");
+        eu.setGenero(👩🏻:"Feminino");
         eu.setFormacao(🎓:"Análise e Desenvolvimento de Sistemas no Instituto Federal do Rio Grande do Sul");
         eu.setHabilidades(💻:"Java, sólida compreensão da Programação Orientada a Objetos, habilidades avançadas com manipulação e conexão de Banco de Dados, experiência prática com gerenciamento de Servidores, domínio de Frameworks e familiaridade com a integração de APIs.");
         eu.setAprendendo(📚:"Aprendendo atualmente Padrões de Projetos, Gerência de Projeto, Spring, Hibernate e JPA");
