@@ -1,6 +1,6 @@
 # 🚀 Olá, Universo! 🚀
 
-Olá, me chamo **Manuella**! Sou uma desenvolvedora freelancer com experiência sólida em back-end e front-end. Crio interfaces de usuário atraentes e interativas, também sou especializada em integrar sistemas, trabalhar com bancos de dados e garantir que os aplicativos funcionem e se comuniquem perfeitamente. Tenho uma vasta experiência no desenvolvimento de portfólios individuais e empresariais, oferecendo customizações únicas para atender aos requisitos específicos de cada cliente. Sempre busco atender ao máximo os prazos e as expectativas dos clientes.”
+Olá, me chamo **Manuella**! Sou uma desenvolvedora freelancer com experiência sólida em back-end e front-end. Crio interfaces de usuário atraentes e interativas, também sou especializada em integrar, analisar e desenvolver sistemas, trabalhar com bancos de dados e garantir que os aplicativos funcionem e se comuniquem perfeitamente. Tenho uma vasta experiência no desenvolvimento de portfólios individuais e empresariais, oferecendo customizações únicas para atender aos requisitos específicos de cada cliente.
 
 ## 🎓 Formação
 
@@ -10,9 +10,9 @@ Cursando Análise e Desenvolvimento de Sistemas, na Instituição Federal do Rio
 
 - **Java:** Conhecimento específico, constante e aprofundado nessa linguagem de programação.
 - **Programação Orientada a Objetos (POO):** Conhecimento avançado em programação orientada a objetos.
-- **Banco de Dados:** Conhecimento avançado em banco de dados, incluindo criação, manipulação, mapeamentos de banco relacionais e conexões.
+- **Banco de Dados:** Conhecimento avançado em banco de dados, incluindo criação, manipulação, mapeamentos de banco relacionais (JPA) e conexões.
 - **Servidores:** Experiência com gerenciamento de servidores.
-- **Frameworks:** Familiarização com Spring.
+- **Frameworks:** Familiarização com o framework Spring e todo o seu ecossitema (Spring Security, Spring...)
 - **APIs:** Familiarização com integração de APIs.
 
 ## 🌱 Aprendizado Atual
