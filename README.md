@@ -1,6 +1,6 @@
 # 🚀 Olá, Universo! 🚀
 
-Olá, me chamo **Manuella**! Sou uma desenvolvedora freelancer com experiência sólida em back-end e front-end. Crio interfaces de usuário atraentes e interativas, também sou especializada em integrar, analisar e desenvolver sistemas, trabalhar com bancos de dados e garantir que os aplicativos funcionem e se comuniquem perfeitamente. Tenho uma vasta experiência no desenvolvimento de portfólios individuais e empresariais, oferecendo customizações únicas para atender aos requisitos específicos de cada cliente.
+Olá! Sou **Manuella**, uma desenvolvedora freelancer com experiência sólida em back-end e front-end. Minhas habilidades incluem a criação de interfaces de usuário atraentes e interativas, integração de sistemas e trabalho com bancos de dados. Tenho um histórico de sucesso no desenvolvimento de portfólios individuais e empresariais, oferecendo customizações únicas para atender aos requisitos específicos de cada cliente.”
 
 ## 🎓 Formação
 
