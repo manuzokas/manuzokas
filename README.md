@@ -1,6 +1,6 @@
 # 🚀 Olá, Universo! 🚀
 
-Eu sou a **Manuella**, uma aspirante a analista e desenvolvedora de sistemas com uma ambição contínua por conhecimentos no mundo da programação.
+Olá, me chamo **Manuella**! Sou uma desenvolvedora freelancer com experiência sólida em back-end e front-end. Crio interfaces de usuário atraentes e interativas, também sou especializada em integrar sistemas, trabalhar com bancos de dados e garantir que os aplicativos funcionem e se comuniquem perfeitamente. Tenho uma vasta experiência no desenvolvimento de portfólios individuais e empresariais, oferecendo customizações únicas para atender aos requisitos específicos de cada cliente. Sempre busco atender ao máximo os prazos e as expectativas dos clientes.”
 
 ## 🎓 Formação
 
