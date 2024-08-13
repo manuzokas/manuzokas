@@ -19,10 +19,7 @@ Tenho me especializado em **Java** e no ecossistema **Spring**, com foco na inte
 - **Banco de Dados:** Competência avançada em bancos de dados relacionais (PostgreSQL) e não-relacionais (MongoDB, Redis), com foco em modelagem eficiente, otimização de consultas, e mapeamento de dados (JPA).
 - **Testes Automatizados:** Sólida experiência em testes unitários e de integração em Java, garantindo a qualidade e estabilidade do código.
 - **Escalabilidade Automática:** Conhecimento prático em escalabilidade horizontal e vertical, com aplicação em ambientes de produção, utilizando técnicas de autoescalonamento para otimização de recursos.
-- **Servidores:** Experiência em configuração e gerenciamento de servidores.
-
-## 🌱 Aprendizado Contínuo
-Estou constantemente aprimorando minhas habilidades em Padrões de Projetos, Gerência de Projetos, JPA e Redis, buscando sempre inovar e aplicar as melhores práticas no desenvolvimento de software.
+- **APIs RESTful:** Experiência significativa na criação e integração de APIs RESTful, seguindo as melhores práticas de design e segurança.
 
 ## 🔍 Oportunidades e Disponibilidade
 Estou à procura de uma oportunidade de estágio onde possa contribuir com meu conhecimento e crescer junto com a equipe. Com disponibilidade integral (manhã e tarde livres), estou pronta para abraçar novos desafios e entregar soluções de alta qualidade dentro dos prazos estabelecidos.
