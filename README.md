@@ -1,7 +1,3 @@
-Aqui está uma versão mais profissional e refinada para o seu perfil no GitHub:
-
----
-
 # Manuella R. | Desenvolvedora Full Stack
 
 Bem-vindo ao meu perfil GitHub! Sou uma Analista e Desenvolvedora e Sisteas com experiência diversificada em back-end e front-end. Com uma abordagem focada em resultados e excelência, meu trabalho se destaca pela criação de soluções tecnológicas eficientes, seguras e escaláveis, sempre alinhadas às necessidades específicas de cada cliente.
@@ -31,7 +27,3 @@ Estou à procura de uma oportunidade de estágio onde possa contribuir com meu c
 
 ## 📫 Contato
 Estou sempre aberta a discutir novas oportunidades, colaborar em projetos ou trocar ideias. Não hesite em me enviar uma mensagem para conversarmos!
-
----
-
-Esse modelo mantém a essência do seu perfil, mas com uma linguagem mais formal e direcionada ao mercado profissional.
