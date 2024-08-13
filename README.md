@@ -1,37 +1,39 @@
-# 🚀 Olá, Universo! 🚀
+Aqui está uma versão mais profissional e refinada para o seu perfil no GitHub:
 
-Olá! Sou **Manuella**, uma desenvolvedora freelancer com experiência sólida em back-end e front-end. Minhas habilidades incluem a criação de interfaces de usuário atraentes e interativas, integração e comunicação de sistemas via api's e conhecimento avançado com bancos de dados. Desenvolvo portfólios individuais e empresariais, oferecendo customizações únicas para atender aos requisitos específicos de cada cliente. 
+---
 
-## 🎓 Formação
+# Manuella N. | Desenvolvedora Full Stack
 
-Cursando Análise e Desenvolvimento de Sistemas, na Instituição Federal do Rio Grande do Sul(IFRS).
+Bem-vindo ao meu perfil GitHub! Sou uma desenvolvedora de software com experiência diversificada em back-end e front-end. Com uma abordagem focada em resultados e excelência, meu trabalho se destaca pela criação de soluções tecnológicas eficientes, seguras e escaláveis, sempre alinhadas às necessidades específicas de cada cliente.
 
-## 💡 Habilidades
+## 🚀 Sobre Mim
+Sou uma desenvolvedora freelancer apaixonada por transformar ideias em realidades digitais. Minha especialidade é a construção de interfaces de usuário interativas, bem como a integração robusta de sistemas via APIs e a gestão eficiente de bancos de dados. Além de desenvolver portfólios para indivíduos e empresas, ofereço customizações que garantem a entrega de soluções únicas e sob medida.
 
-- **Java:** Conhecimento específico, constante e aprofundado nessa linguagem de programação.
-- **Programação Orientada a Objetos (POO):** Conhecimento avançado em programação orientada a objetos.
-- **Banco de Dados:** Conhecimento avançado em banco de dados, incluindo criação, manipulação, mapeamentos de banco relacionais (JPA) e conexões.
-- **Servidores:** Experiência com gerenciamento de servidores.
-- **Frameworks:** Familiarização com o framework Spring e todo o seu ecossitema (Spring Security, Spring...)
-- **APIs:** Familiarização com integração de APIs.
+## 🎓 Formação Acadêmica
+- **Cursando:** Análise e Desenvolvimento de Sistemas, Instituto Federal do Rio Grande do Sul (IFRS).
 
-## 🌱 Aprendizado Atual
+## 💼 Competências Técnicas
+- **Linguagens de Programação:** Java (expertise avançada e contínua).
+- **Programação Orientada a Objetos (POO):** Domínio em design e implementação de soluções orientadas a objetos.
+- **Banco de Dados:** Experiência avançada em modelagem, manipulação e mapeamentos de bancos relacionais (JPA), além de conexões e otimizações.
+- **Frameworks:** Proficiência em Spring Framework, incluindo módulos como Spring Security e outros componentes do ecossistema Spring.
+- **APIs:** Habilidade em integração e desenvolvimento de APIs RESTful.
+- **Servidores:** Experiência em configuração e gerenciamento de servidores.
 
-Estou atualmente mergulhando no mundo dos Padrões de Projetos, Gerência de Projeto, JPA e Redis.
+## 🌱 Aprendizado Contínuo
+Estou constantemente aprimorando minhas habilidades em Padrões de Projetos, Gerência de Projetos, JPA e Redis, buscando sempre inovar e aplicar as melhores práticas no desenvolvimento de software.
 
-## 🔍 Oportunidades
-
-Estou em busca de uma oportunidade de estágio na área! Se você está procurando por alguém que é comprometida com prazos, com flexibilidade de tempo (manhã e tarde livres), orientada a resultados e persistente na busca de soluções, eu posso ser a pessoa que você está procurando!
-
-## ⏰ Disponibilidade
-
-Estou disponível para trabalhar em tempo integral, tanto no turno da manhã quanto no turno da tarde.
+## 🔍 Oportunidades e Disponibilidade
+Estou à procura de uma oportunidade de estágio onde possa contribuir com meu conhecimento e crescer junto com a equipe. Com disponibilidade integral (manhã e tarde livres), estou pronta para abraçar novos desafios e entregar soluções de alta qualidade dentro dos prazos estabelecidos.
 
 ## 🌍 Idiomas
+- **Português:** Nativo.
+- **Inglês:** Avançado.
+- **Espanhol:** Intermediário.
 
-Falo Português nativamente, tenho um nível avançado em Inglês e um nível intermediário em Espanhol.
+## 📫 Contato
+Estou sempre aberta a discutir novas oportunidades, colaborar em projetos ou trocar ideias. Não hesite em me enviar uma mensagem para conversarmos!
 
-## 💌 Entre em Contato
+---
 
-Se você gostaria de conversar sobre oportunidades, colaborações ou apenas quer dizer oi, sinta-se à vontade para me enviar uma mensagem!
-
+Esse modelo mantém a essência do seu perfil, mas com uma linguagem mais formal e direcionada ao mercado profissional.
