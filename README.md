@@ -2,23 +2,25 @@ Aqui está uma versão mais profissional e refinada para o seu perfil no GitHub:
 
 ---
 
-# Manuella N. | Desenvolvedora Full Stack
+# Manuella R. | Desenvolvedora Full Stack
 
-Bem-vindo ao meu perfil GitHub! Sou uma desenvolvedora de software com experiência diversificada em back-end e front-end. Com uma abordagem focada em resultados e excelência, meu trabalho se destaca pela criação de soluções tecnológicas eficientes, seguras e escaláveis, sempre alinhadas às necessidades específicas de cada cliente.
+Bem-vindo ao meu perfil GitHub! Sou uma Analista e Desenvolvedora e Sisteas com experiência diversificada em back-end e front-end. Com uma abordagem focada em resultados e excelência, meu trabalho se destaca pela criação de soluções tecnológicas eficientes, seguras e escaláveis, sempre alinhadas às necessidades específicas de cada cliente.
 
 ## 🚀 Sobre Mim
-Sou uma desenvolvedora freelancer apaixonada por transformar ideias em realidades digitais. Minha especialidade é a construção de interfaces de usuário interativas, bem como a integração robusta de sistemas via APIs e a gestão eficiente de bancos de dados. Além de desenvolver portfólios para indivíduos e empresas, ofereço customizações que garantem a entrega de soluções únicas e sob medida.
+Tenho me especializado em **Java** e no ecossistema **Spring**, com foco na integração eficiente de bancos de dados relacionais e não-relacionais. Possuo ampla experiência no desenvolvimento de **APIs RESTful**, na implementação de testes automatizados em Java, e na **arquitetura de microserviços**, garantindo a robustez e escalabilidade das soluções entregues.
 
 ## 🎓 Formação Acadêmica
 - **Cursando:** Análise e Desenvolvimento de Sistemas, Instituto Federal do Rio Grande do Sul (IFRS).
 
-## 💼 Competências Técnicas
-- **Linguagens de Programação:** Java (expertise avançada e contínua).
-- **Programação Orientada a Objetos (POO):** Domínio em design e implementação de soluções orientadas a objetos.
-- **Banco de Dados:** Experiência avançada em modelagem, manipulação e mapeamentos de bancos relacionais (JPA), além de conexões e otimizações.
-- **Frameworks:** Proficiência em Spring Framework, incluindo módulos como Spring Security e outros componentes do ecossistema Spring.
-- **APIs:** Habilidade em integração e desenvolvimento de APIs RESTful.
-- **Servidores:** Experiência em configuração e gerenciamento de servidores.
+💼 Competências Técnicas
+Linguagens de Programação: Expertise avançada em Java, com foco na aplicação de conceitos modernos de programação orientada a objetos (POO).
+Arquitetura de Microserviços: Proficiência no design e implementação de microserviços utilizando Spring Boot, garantindo escalabilidade, modularidade e facilidade de manutenção.
+Frameworks: Domínio do Spring Framework, incluindo Spring Security, Spring Data JPA, e Spring Cloud para construção de soluções robustas e seguras.
+APIs RESTful: Experiência significativa na criação e integração de APIs RESTful, seguindo as melhores práticas de design e segurança.
+Bancos de Dados: Competência avançada em bancos de dados relacionais (PostgreSQL) e não-relacionais (MongoDB, Redis), com foco em modelagem eficiente, otimização de consultas, e mapeamento de dados (JPA).
+Testes Automatizados: Sólida experiência em testes unitários e de integração em Java, garantindo a qualidade e estabilidade do código.
+Padrões de Arquitetura: Aplicação prática do padrão MVC (Model-View-Controller) em projetos complexos, facilitando a manutenção e escalabilidade do código.
+Desenvolvimento de Software: Experiência no ciclo completo de desenvolvimento, desde a concepção até a implementação e manutenção, com foco em entrega contínua e alta qualidade.
 
 ## 🌱 Aprendizado Contínuo
 Estou constantemente aprimorando minhas habilidades em Padrões de Projetos, Gerência de Projetos, JPA e Redis, buscando sempre inovar e aplicar as melhores práticas no desenvolvimento de software.
