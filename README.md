@@ -12,15 +12,14 @@ Tenho me especializado em **Java** e no ecossistema **Spring**, com foco na inte
 ## 🎓 Formação Acadêmica
 - **Cursando:** Análise e Desenvolvimento de Sistemas, Instituto Federal do Rio Grande do Sul (IFRS).
 
-💼 Competências Técnicas
-Linguagens de Programação: Expertise avançada em Java, com foco na aplicação de conceitos modernos de programação orientada a objetos (POO).
-Arquitetura de Microserviços: Proficiência no design e implementação de microserviços utilizando Spring Boot, garantindo escalabilidade, modularidade e facilidade de manutenção.
-Frameworks: Domínio do Spring Framework, incluindo Spring Security, Spring Data JPA, e Spring Cloud para construção de soluções robustas e seguras.
-APIs RESTful: Experiência significativa na criação e integração de APIs RESTful, seguindo as melhores práticas de design e segurança.
-Bancos de Dados: Competência avançada em bancos de dados relacionais (PostgreSQL) e não-relacionais (MongoDB, Redis), com foco em modelagem eficiente, otimização de consultas, e mapeamento de dados (JPA).
-Testes Automatizados: Sólida experiência em testes unitários e de integração em Java, garantindo a qualidade e estabilidade do código.
-Padrões de Arquitetura: Aplicação prática do padrão MVC (Model-View-Controller) em projetos complexos, facilitando a manutenção e escalabilidade do código.
-Desenvolvimento de Software: Experiência no ciclo completo de desenvolvimento, desde a concepção até a implementação e manutenção, com foco em entrega contínua e alta qualidade.
+## 💼 Competências Técnicas
+- **Linguagens de Programação:** Expertise avançada em Java, com foco na aplicação de conceitos modernos de programação orientada a objetos (POO) e utilização adequada dos **design patterns**.
+- **Arquitetura de Microserviços:** Proficiência no design e implementação de microserviços utilizando Spring Boot, garantindo escalabilidade, modularidade e facilidade de manutenção.
+- **Frameworks:** Domínio do Spring Framework, incluindo Spring Security, Spring Data JPA, e Spring Cloud para construção de soluções robustas e seguras.
+- **Banco de Dados:** Competência avançada em bancos de dados relacionais (PostgreSQL) e não-relacionais (MongoDB, Redis), com foco em modelagem eficiente, otimização de consultas, e mapeamento de dados (JPA).
+- **Testes Automatizados:** Sólida experiência em testes unitários e de integração em Java, garantindo a qualidade e estabilidade do código.
+- **Escalabilidade Automática:** Conhecimento prático em escalabilidade horizontal e vertical, com aplicação em ambientes de produção, utilizando técnicas de autoescalonamento para otimização de recursos.
+- **Servidores:** Experiência em configuração e gerenciamento de servidores.
 
 ## 🌱 Aprendizado Contínuo
 Estou constantemente aprimorando minhas habilidades em Padrões de Projetos, Gerência de Projetos, JPA e Redis, buscando sempre inovar e aplicar as melhores práticas no desenvolvimento de software.
