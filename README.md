@@ -6,7 +6,7 @@ Bem-vindo ao meu perfil GitHub! Sou uma **Analista e Desenvolvedora de Sistemas*
 Tenho me especializado em **Java** e no ecossistema **Spring**, com foco na integração eficiente de bancos de dados relacionais e não-relacionais. Possuo ampla experiência no desenvolvimento de **APIs RESTful**, na implementação de testes automatizados em Java, e na **arquitetura de microserviços**, garantindo a robustez e escalabilidade das soluções entregues.
 
 ## Formação Acadêmica
-- **Cursando:** Análise e Desenvolvimento de Sistemas, Instituto Federal do Rio Grande do Sul (IFRS).
+- **Cursando:** Último ano de Análise e Desenvolvimento de Sistemas, Instituto Federal do Rio Grande do Sul (IFRS).
 
 ## Competências Técnicas
 - **Linguagens de Programação:** Expertise avançada em **Java**, com foco na aplicação de conceitos modernos de programação orientada a objetos (**POO**) e utilização adequada dos **design patterns**.
@@ -16,6 +16,7 @@ Tenho me especializado em **Java** e no ecossistema **Spring**, com foco na inte
 - **Testes Automatizados:** Sólida experiência em testes unitários e de integração em Java, garantindo a qualidade e estabilidade do código.
 - **Escalabilidade Automática:** Conhecimento prático em escalabilidade horizontal e vertical, com aplicação em ambientes de produção, utilizando técnicas de autoescalonamento para otimização de recursos.
 - **APIs RESTful:** Experiência significativa na criação e integração de **APIs RESTful**, seguindo as melhores práticas de design e segurança.
+- **Front-End:** Experieência de desenvolvimento com React e Angular.
 
 ## Oportunidades e Disponibilidade
 Estou à procura de uma oportunidade de estágio onde possa contribuir com meu conhecimento e crescer junto com a equipe. Com disponibilidade integral (manhã e tarde livres), estou pronta para abraçar novos desafios e entregar soluções de alta qualidade dentro dos prazos estabelecidos.
