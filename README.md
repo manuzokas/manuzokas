@@ -19,12 +19,16 @@ Tenho me especializado em **Java** e no ecossistema **Spring**, com foco na inte
 - **Front-End:** Experieência de desenvolvimento com React e Angular.
 
 ## Oportunidades e Disponibilidade
-Estou à procura de uma oportunidade de estágio onde possa contribuir com meu conhecimento e crescer junto com a equipe. Com disponibilidade integral (manhã e tarde livres), estou pronta para abraçar novos desafios e entregar soluções de alta qualidade dentro dos prazos estabelecidos.
+Estou à procura de uma oportunidade onde eu possa contribuir com meu conhecimento e crescer juntamente com a equipe. Com disponibilidade integral estou pronta para abraçar novos desafios e entregar soluções de alta qualidade dentro dos prazos estabelecidos. Sou bastante dedicada, comprometida com prazos, focada em qualidade de software sempre desenvolvendo dentro de boas práticas atualizadas do mercado atual e sou autodidata!
 
 ## Idiomas
 - **Português:** Nativo.
-- **Inglês:** Avançado.
+- **Inglês:** Fluente.
 - **Espanhol:** Intermediário.
 
-## Contato
+## Contato / Links
 Estou sempre aberta a discutir novas oportunidades, colaborar em projetos ou trocar ideias. Não hesite em me enviar uma mensagem para conversarmos!
+
+Github: https://www.linkedin.com/in/manuella-rodrigues-541a89316/
+Celular: +55 (53) 9 9106-8080
+
