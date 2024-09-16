@@ -31,4 +31,5 @@ Estou sempre aberta a discutir novas oportunidades, colaborar em projetos ou tro
 
 Github: https://www.linkedin.com/in/manuella-rodrigues-541a89316/
 Celular: +55 (53) 9 9106-8080
+Portfólio com Node, JS e Html: https://meu-portfolio-beta-one.vercel.app/
 
