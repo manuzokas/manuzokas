@@ -48,14 +48,15 @@ Com experiência em arquitetura de sistemas escaláveis, ambientes Cloud (AWS) e
 ## 🎯 Experiência & Foco
 
 ### Backend
-- Desenvolvimento de **APIs RESTful** e **Arquiteturas de Microserviços**.
-- Integração com bancos de dados relacionais (com mapeamento JPA) e não-relacionais.
-- Ecossistema **Spring** e **Node.js**.
+- Desenvolvimento de **APIs RESTful**, **Arquiteturas de Microserviços**, aplicação de **Design Patterns**.
+- Integração com bancos de dados relacionais (com mapeamento JPA) e não-relacionais, especialmente com o banco de dados **Postgres**.
+- Ecossistema **Spring**(SpringBoot, Spring Security, Spring JPA e etc...) e **Node.js**.
 
 ### Frontend
-- Desenvolvimento de aplicações modernas **web** e **mobile** com **React**.
+- Desenvolvimento de aplicações modernas **web** e **mobile** com **React**, utilizando a linguagem de programação **Typescript**.
 - Estilização com **Tailwind CSS**.
 - Serviços de autenticação via **Clerk**.
+- Integração com AWS.
 
 ---
 
