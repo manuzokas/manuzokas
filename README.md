@@ -2,7 +2,7 @@
 
 ### 🚀 Desenvolvedora FullStack
 
-Com experiência em arquitetura de sistemas escaláveis, ambientes Cloud (AWS) e segurança. Tenho conhecimento em linguagens de programação como **Java**, **JavaScript**, **TypeScript**, **SQL** e **NoSQL**, aplicando boas práticas e padrões de projeto para criar aplicações robustas e performáticas.
+Com experiência em arquitetura de sistemas escaláveis, ambientes Cloud (AWS) e segurança. Tenho conhecimento em linguagens de programação como **Java**, **JavaScript**, **TypeScript**, **SQL** e **NoSQL**, aplicando boas práticas e padrões de projeto para criar aplicações robustas, performáticas e com arquiteturas escaláveis.
 
 ---
 
