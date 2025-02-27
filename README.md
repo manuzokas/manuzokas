@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Manuella Rodrigues!
 
-### 🚀 Desenvolvedora FullStack
+### 🚀 Desenvolvedora FullStack | Especialista em Arquiteturas de Microservices, Cloud e Segurança da Informação
 
 Profissional experiente em arquitetura de sistemas escaláveis, ambientes Cloud (especialmente AWS) e segurança da informação. Com domínio em diversas linguagens de programação, incluindo **Java**, **JavaScript**, **TypeScript**, **SQL** e **NoSQL**, aplico rigorosamente boas práticas e padrões de projeto para desenvolver aplicações robustas, de alto desempenho e com arquiteturas escaláveis.
 
@@ -46,6 +46,11 @@ Profissional experiente em arquitetura de sistemas escaláveis, ambientes Cloud 
 ---
 
 ## 🎯 Experiência & Foco
+
+### Arquiteturas de Microservices & Cloud
+- Desenvolvimento e implementação de arquiteturas de microservices altamente escaláveis e resilientes.
+- Projeto e gerenciamento de ambientes Cloud, com foco em AWS, garantindo alta disponibilidade e segurança.
+- Integração de APIs RESTful e GraphQL para comunicação entre serviços.
 
 ### Backend
 - Desenvolvimento de **APIs RESTful**, **Arquiteturas de Microserviços**, aplicação de **Design Patterns**.
