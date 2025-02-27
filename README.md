@@ -49,7 +49,7 @@ Com experiência em arquitetura de sistemas escaláveis, ambientes Cloud (AWS) e
 
 ### Backend
 - Desenvolvimento de **APIs RESTful**, **Arquiteturas de Microserviços**, aplicação de **Design Patterns**.
-- Integração com bancos de dados relacionais (com mapeamento JPA) e não-relacionais, especialmente com o banco de dados **Postgres**.
+- Integração com bancos de dados relacionais (com mapeamento JPA) e não-relacionais, especialmente com o gerenciador de banco de dados **Postgres**.
 - Ecossistema **Spring**(SpringBoot, Spring Security, Spring JPA e etc...) e **Node.js**.
 
 ### Frontend
@@ -67,6 +67,7 @@ Sou entusiasta de boas práticas como:
 - **SOLID**
 - **TDD (Test-Driven Development)**
 - **Arquitetura Limpa**
+- **DRY (Dont Repeat Yourself)**
 
 ---
 
