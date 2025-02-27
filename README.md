@@ -53,7 +53,7 @@ Profissional experiente em arquitetura de sistemas escaláveis, ambientes Cloud 
 - Ecossistema **Spring**(SpringBoot, Spring Security, Spring JPA e etc...) e **Node.js**.
 
 ### Frontend
-- Desenvolvimento de aplicações modernas **web** e **mobile** com **React**, utilizando a linguagem de programação **Typescript**.
+- Desenvolvimento de aplicações modernas **web** e **mobile** com **React**, utilizando linguagens de programação **Javascript** e **Typescript**.
 - Estilização com **Tailwind CSS**.
 - Serviços de autenticação via **Clerk**.
 - Integração com AWS.
