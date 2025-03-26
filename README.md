@@ -2,7 +2,7 @@
 
 ### 🚀 FullStack Developer | Expertise em Arquitetura de Software e Cloud 
 
-Profissional experiente em arquitetura de sistemas escaláveis, ambientes Cloud (especialmente AWS) e segurança da informação. Com domínio em diversas linguagens de programação, incluindo **Java**, **JavaScript**, **TypeScript**, **SQL** e **NoSQL**, aplico rigorosamente boas práticas e padrões de projeto para desenvolver aplicações robustas, de alto desempenho e com arquiteturas escaláveis.
+Arquiteta de sistemas escaláveis com foco em Cloud (AWS) e segurança da informação. Domínio em Java, JavaScript/TypeScript, SQL/NoSQL e aplicação de padrões de projeto para desenvolver soluções robustas, performáticas e escaláveis.
 
 ---
 
