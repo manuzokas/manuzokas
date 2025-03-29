@@ -29,18 +29,14 @@ Experiência no ciclo completo de desenvolvimento, desde interfaces modernas com
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white" alt="Spring Boot">
   <img src="https://img.shields.io/badge/JPA-007396?style=flat&logo=java&logoColor=white" alt="JPA">
   <img src="https://img.shields.io/badge/API_REST-009688?style=flat&logo=rest&logoColor=white" alt="REST API">
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white" alt="GraphQL">
 </div>
 
-- **Spring Framework**: Desenvolvimento de aplicações robustas com o ecossistema Spring
-- **Mapeamento ORM**: Domínio de JPA/Hibernate para modelagem de entidades e relacionamentos
-- **APIs RESTful**: Construção de endpoints seguindo princípios REST e padrão MVC
-- **Design Patterns**: Implementação de Singleton, Factory, Strategy e outros padrões GOF
-- **Arquitetura**: Experiência em sistemas monolíticos bem estruturados com separação clara de camadas
-- **Transações**: Controle transacional com `@Transactional` e isolamento de operações críticas
-
-- **Design de APIs**: RESTful e GraphQL com foco em performance (N+1 prevention)
-- **Padrões de persistência**: Repository Pattern, Specifications e Criteria API
-- **Transações distribuídas**: SAGA Pattern em ambientes microservices
+- **Spring Framework**: Desenvolvimento de aplicações robustas com o ecossistema Spring  
+- **JPA/Hibernate**: Modelagem de entidades, relacionamentos e queries otimizadas  
+- **APIs RESTful**: Construção de endpoints seguindo princípios REST e padrão MVC  
+- **Arquitetura**: Sistemas monolíticos e microsserviços (SAGA Pattern) com camadas bem definidas  
+- **Transações**: Controle com `@Transactional` e isolamento de operações críticas
 
 ### Frontend & Web
 <div>
