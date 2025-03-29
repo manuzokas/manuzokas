@@ -12,7 +12,7 @@
 
 </div>
 
-Experiência no ciclo completo de desenvolvimento - desde interfaces modernas com React até APIs robustas e sua implantação em ambientes cloud. Aprimorando expertise em soluções escaláveis e de alta disponibilidade, através do estudo aplicado de arquiteturas e metodologias modernas.
+Experiência no ciclo completo de desenvolvimento, desde interfaces modernas com React até APIs robustas e sua implantação em ambientes cloud. Aprimorando expertise em soluções escaláveis e de alta disponibilidade, através do estudo aplicado de arquiteturas e metodologias modernas.
 
 ## Destaques Técnicos
 
