@@ -16,11 +16,7 @@ Experiência no ciclo completo de desenvolvimento, desde interfaces modernas com
 
 ## Destaques Técnicos
 
-### 🗃️ **Expertise em Bancos de Dados**
-- **PostgreSQL avançado**: Otimização de queries complexas
-- **Modelagem relacional**: Design de schemas normalizados para sistemas transacionais críticos
-- **JPA/Hibernate**: Padrões de mapeamento ORM, lazy loading estratégico e caching
-- **Híbrido SQL/NoSQL**: Experiência em modelos poli glotas (PostgreSQL + MongoDB)
+
 
 ## Principais Competências
 
@@ -48,6 +44,18 @@ Experiência no ciclo completo de desenvolvimento, desde interfaces modernas com
 - **Arquitetura frontend**: Componentização atômica
 - **Gerenciamento de estado**: Context API + Redux para fluxos complexos
 - **Performance**: Code splitting e lazy loading estratégico
+
+  ## 🗃️ **Data**
+<div>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" alt="Redis">
+</div>
+
+- **PostgreSQL**: Otimização de queries complexas, índices estratégicos e modelagem relacional para sistemas críticos  
+- **JPA/Hibernate**: Mapeamento ORM avançado, lazy loading e caching de entidades  
+- **Arquitetura Híbrida**: Sistemas poliglotas (PostgreSQL + MongoDB) com Redis para cache e alta performance  
+- **Redis**: Cache distribuído, gerenciamento de sessões e otimização de throughput  
 
 ## Stack Técnica
 
