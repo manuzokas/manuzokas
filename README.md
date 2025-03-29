@@ -1,6 +1,6 @@
 # Manuella Rodrigues | FullStack Developer
 
-Desenvolvedora especializada em arquitetura de software e aplicações web completas, com domínio em:
+**Desenvolvedora FullStack** especializada em arquitetura de software e aplicações web completas, com domínio em:
 <div align="left">
   
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
