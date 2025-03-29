@@ -9,9 +9,7 @@ Desenvolvedora especializada em arquitetura de software e aplicações web compl
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 </div>
 
-Experiência no ciclo completo de desenvolvimento - desde interfaces modernas com React até APIs robustas e sua implantação em ambientes cloud. Atualmente focada em aprofundar conhecimentos em arquitetura de sistemas distribuídos e melhores práticas de desenvolvimento.
-com domínio em:
-
+Experiência no ciclo completo de desenvolvimento - desde interfaces modernas com React até APIs robustas e sua implantação em ambientes cloud. Aprimorando expertise em soluções escaláveis e de alta disponibilidade, através do estudo aplicado de arquiteturas e metodologias modernas.
 
 ## Principais Competências
 
