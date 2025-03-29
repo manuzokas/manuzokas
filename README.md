@@ -24,12 +24,19 @@ Experiência no ciclo completo de desenvolvimento - desde interfaces modernas co
 
 ## Principais Competências
 
-### Arquitetura & Backend
+## Arquitetura & Backend
 <div>
-  <img src="https://img.shields.io/badge/Microservices-1890FF?style=flat" alt="Microservices">
-  <img src="https://img.shields.io/badge/Spring_Data-6DB33F?style=flat&logo=spring&logoColor=white" alt="Spring Data">
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white" alt="Spring Boot">
   <img src="https://img.shields.io/badge/JPA-007396?style=flat&logo=java&logoColor=white" alt="JPA">
+  <img src="https://img.shields.io/badge/API_REST-009688?style=flat&logo=rest&logoColor=white" alt="REST API">
 </div>
+
+- **Spring Framework**: Desenvolvimento de aplicações robustas com Spring Boot, Spring MVC e Spring Data JPA
+- **Mapeamento ORM**: Domínio de JPA/Hibernate para modelagem de entidades e relacionamentos
+- **APIs RESTful**: Construção de endpoints seguindo princípios REST e padrão MVC
+- **Design Patterns**: Implementação de Singleton, Factory, Strategy e outros padrões GOF
+- **Arquitetura**: Experiência em sistemas monolíticos bem estruturados com separação clara de camadas
+- **Transações**: Controle transacional com `@Transactional` e isolamento de operações críticas
 
 - **Design de APIs**: RESTful e GraphQL com foco em performance (N+1 prevention)
 - **Padrões de persistência**: Repository Pattern, Specifications e Criteria API
