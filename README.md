@@ -17,9 +17,9 @@ Experiência no ciclo completo de desenvolvimento, desde interfaces modernas com
 ## Destaques Técnicos
 
 ### 🗃️ **Expertise em Bancos de Dados**
-- **PostgreSQL avançado**: Otimização de queries complexas, índices estratégicos e particionamento
+- **PostgreSQL avançado**: Otimização de queries complexas
 - **Modelagem relacional**: Design de schemas normalizados para sistemas transacionais críticos
-- **JPA/Hibernate**: Padrões de mapeamento ORM, lazy loading estratégico e cache de segundo nível
+- **JPA/Hibernate**: Padrões de mapeamento ORM, lazy loading estratégico e caching
 - **Híbrido SQL/NoSQL**: Experiência em modelos poli glotas (PostgreSQL + MongoDB)
 
 ## Principais Competências
@@ -31,7 +31,7 @@ Experiência no ciclo completo de desenvolvimento, desde interfaces modernas com
   <img src="https://img.shields.io/badge/API_REST-009688?style=flat&logo=rest&logoColor=white" alt="REST API">
 </div>
 
-- **Spring Framework**: Desenvolvimento de aplicações robustas com Spring Boot, Spring MVC e Spring Data JPA
+- **Spring Framework**: Desenvolvimento de aplicações robustas com o ecossistema Spring
 - **Mapeamento ORM**: Domínio de JPA/Hibernate para modelagem de entidades e relacionamentos
 - **APIs RESTful**: Construção de endpoints seguindo princípios REST e padrão MVC
 - **Design Patterns**: Implementação de Singleton, Factory, Strategy e outros padrões GOF
