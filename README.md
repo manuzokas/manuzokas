@@ -1,6 +1,6 @@
 # Manuella Rodrigues  
 ### **FullStack Developer | Cloud Architect | Java & React Specialist**  
-**Especialista em arquitetura de sistemas escaláveis**, com domínio em desenvolvimento FullStack (Spring Boot/Java + React/TS) e **expertise avançada em bancos de dados relacionais e NoSQL**. Experiência em todo o ciclo de desenvolvimento - desde interfaces modernas até APIs robustas e **implantação em Cloud**, com foco em: **Arquitetura de Dados**, **Escalabilidade e Alta Disponibilidade** e **Persistência**.
+**Especialista em arquitetura de sistemas escaláveis**, com domínio em desenvolvimento FullStack (Spring Boot/Java + React/TS) e noções avançada em bancos de dados relacionais/PostgresSQL e NoSQL/MongoDB. Experiência em todo o ciclo de desenvolvimento - desde interfaces modernas até APIs robustas e **implantação em Cloud**, com foco em: **Arquitetura de Dados**, **Escalabilidade e Alta Disponibilidade** e **Persistência**.
 
 ---
 
@@ -8,41 +8,49 @@
 
 ### **Backend & Architecture**  
 **Spring Ecosystem** | **Microservices** | **Cloud-Native Apps**  
-- Arquitetura de **APIs RESTful e GraphQL** (Spring Boot, JPA/Hibernate)  
-- Design de sistemas **monolíticos e microsserviços** (SAGA, CQRS)  
-- Otimização de performance: **caching (Redis), conexões concorrentes, N+1 prevention**  
+- Arquitetura de APIs **RESTful/Padrão MVC** (Spring Web, JPA/Hibernate)  
+- Design de sistemas **monolíticos e microsserviços**
+- Otimização de performance: **caching (Redis)**  
 - **Spring Security** (JWT, OAuth2) e gestão transacional (`@Transactional`)  
 
 ### **Frontend**  
-**React (TypeScript)** | **Next.js** | **State Management**  
+**React (TypeScript/Javascript)** | **Next.js** | **State Management** | **Tailwind**  
 - Componentização atômica e **design systems** escaláveis  
-- Gerenciamento de estado com **Redux Toolkit + Context API**  
-- **SSR/SSG** (Next.js) e otimização de renderização  
+- Gerenciamento de estados globais e complexos com **Redux Toolkit + Context API**  
+- Domínio de memoization (useMemo/useCallback), virtualização de listas e redução de re-renders desnecessários  
 - Styling com **Tailwind CSS** e acessibilidade  
 
 ### **Data Layer**  
 **PostgreSQL** | **MongoDB** | **ORM/JPA**  
-- Modelagem relacional e **otimização de queries** (indexação, explain plans)  
+- Modelagem relacional e **otimização de queries**
 - Bancos **poliglotas** (SQL + NoSQL) para casos de uso específicos  
-- **Redis** para cache distribuído e alta disponibilidade  
+- **Redis** para cache distribuído e alta disponibilidade
+
+### **Cloud & DevOps**  
+**AWS | Terraform | Docker**
+- Serviços EC2, S3, RDS, Lambda e VPC
+- Arquitetura resiliente com Multi-AZ, Load Balancing e auto-scaling 
+- Conceitos de arquitetura cloud: Escalabilidade, tolerância a falhas e segurança  
+- Deploy de aplicações em containers (Docker) e orquestração básica  
+- Automação de infraestrutura com Terraform (HCL)  
 
 ---
 
-## 🔍 **Core Stack**  
+## 🔍 **Core Stack (Principais)**  
 
 | **Backend**       | **Frontend**     | **Data**          | **Infra e DEVOPS**        |  
 |-------------------|------------------|-------------------|------------------|  
 | Java              | React (TS)       | PostgreSQL        | AWS              |  
 | Spring Boot       | Next.js          | MongoDB           | Docker           |  
-| REST/GraphQL      | Redux Toolkit    | JPA/Hibernate     | Terraform        |  
+| REST API'S        | Redux Toolkit    | JPA/Hibernate     | Terraform        |  
 | Microservices     | Tailwind CSS     | Redis             | CI/CD (GitHub Actions) |  
 
 ---
 
 ## 📌 **Highlights**  
-- Projetou arquitetura de **microsserviços para sistema de gestão** (10k+ transações/dia)  
+- Projetou arquitetura de **microsserviços para sistema de gestão**   
 - Migrou monolito para **cloud-native** (AWS + containers) com redução de 40% em custos  
-- Implementou **cache estratégico com Redis** (300ms → 50ms em queries críticas)  
+- Implementou **cache estratégico com Redis** 
 
 ---
 
