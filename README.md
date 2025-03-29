@@ -1,57 +1,64 @@
 # Manuella Rodrigues | FullStack Developer
 
 Desenvolvedora especializada em arquitetura de software e aplicações web completas, com domínio em:
-- **Desenvolvimento Frontend** com React/Next.js e TypeScript
-- **Construção de APIs** com Spring Boot e Node.js
-- **Arquiteturas cloud-native** e soluções AWS
-- **Segurança aplicada** (JWT, OAuth2, Spring Security)
 
-Experiência no ciclo completo de desenvolvimento - desde interfaces modernas com React até APIs robustas e sua implantação em ambientes cloud. Atualmente focada em aprofundar conhecimentos em arquitetura de sistemas distribuídos e melhores práticas de desenvolvimento.
+<div align="center">
+  
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+
+</div>
 
 ## Principais Competências
 
 ### Arquitetura & Backend
-- Arquitetura de Microservices e Sistemas Distribuídos
-- Spring Boot | Node.js | NestJS
-- Design Patterns e Princípios SOLID
-- Segurança: JWT, OAuth2, Spring Security
+<div>
+  <img src="https://img.shields.io/badge/Microservices-1890FF?style=flat" alt="Microservices">
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white" alt="Spring Boot">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white" alt="JWT">
+</div>
+
+- Arquitetura de sistemas distribuídos
+- APIs REST/GraphQL
+- Segurança aplicada (OAuth2, Spring Security)
 
 ### Frontend & Mobile
-- React | Next.js | TypeScript
-- Tailwind CSS | Componentização
-- Integração com Backend e Cloud
+<div>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
+</div>
 
-### Infraestrutura & DevOps
-- AWS (EC2, S3, Lambda, RDS...)
-- Docker | CI/CD Pipelines
-- Bancos de Dados SQL/NoSQL
+- React com TypeScript
+- Componentização avançada
+- Integração com APIs
 
 ## Stack Técnica
 
-**Linguagens:** Java, TypeScript, SQL  
-**Frameworks:** Spring, React, NestJS, Express  
-**Cloud:** AWS (Certificada)  
-**Bancos:** PostgreSQL, MongoDB  
-**DevOps:** Docker, GitHub Actions  
-**Metodologias:** Clean Code, TDD, DDD  
+<div align="center">
+
+| **Backend**       | **Frontend**      | **DevOps**        |
+|-------------------|-------------------|-------------------|
+| ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white) |
+| ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white) | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) |
+| ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) | ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white) | ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white) |
+
+</div>
 
 ## Experiência Relevante
+- **Desenvolvimento FullStack**: Aplicações React + Spring Boot
+- **Arquitetura Cloud**: Implementação de soluções AWS
+- **Boas Práticas**: Clean Code, TDD e DDD
 
-- Projeto e implementação de arquiteturas microservices para aplicações críticas
-- Desenvolvimento de APIs RESTful e GraphQL de alta performance
-- Migração de sistemas monolíticos para arquiteturas cloud-native
-- Implementação de estratégias de segurança e autenticação distribuída
-- Otimização de performance em sistemas de grande escala
-
-## Certificações & Educação
-- AWS Cloud Practitioner (em andamento)
-- AWS Certified Solutions Architect (em andamento)
-- Git and Github Bootcamp
-- Masterying Typescript
-- Web Developer Bootcamp
+## Educação & Certificações
+<div>
+  <img src="https://img.shields.io/badge/AWS_Certified-FF9900?style=flat&logo=amazonaws&logoColor=white" alt="AWS Certified">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript">
+</div>
 
 ## Contato
-
 📧 manuella.rodrigues.dev@gmail.com  
 🔗 [LinkedIn](https://linkedin.com/in/manuella-rodrigues)  
 💻 [Portfólio](https://manuella.dev) 
