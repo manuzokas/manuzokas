@@ -27,7 +27,7 @@ com domínio em:
 - APIs REST/GraphQL
 - Segurança aplicada (OAuth2, Spring Security)
 
-### Frontend & Mobile
+### Frontend & Web/Mobile
 <div>
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js">
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
