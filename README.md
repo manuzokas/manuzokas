@@ -38,7 +38,7 @@ Experiência no ciclo completo de desenvolvimento, desde interfaces modernas com
 - **Arquitetura**: Sistemas monolíticos e microsserviços (SAGA Pattern) com camadas bem definidas  
 - **Transações**: Controle com `@Transactional` e isolamento de operações críticas
 
-### Frontend & Web
+## Frontend & Web
 <div>
   <img src="https://img.shields.io/badge/React_TS-61DAFB?style=flat&logo=react&logoColor=black" alt="React TS">
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js">
