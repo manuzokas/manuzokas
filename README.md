@@ -49,7 +49,7 @@ Experiência no ciclo completo de desenvolvimento, desde interfaces modernas com
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="Typescript">
 </div>
 
-- **Arquitetura frontend**: Componentização atômica com Storybook
+- **Arquitetura frontend**: Componentização atômica
 - **Gerenciamento de estado**: Context API + Redux para fluxos complexos
 - **Performance**: Code splitting e lazy loading estratégico
 
