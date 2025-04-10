@@ -80,9 +80,7 @@
 ---
 
 ## 📌 **Highlights**  
-- Projetou arquitetura de **microsserviços para sistema de gestão**   
-- Migrou monolito para **cloud-native** (AWS + containers) com redução de 40% em custos  
-- Implementou **cache estratégico com Redis** 
+- Projetou arquiteturas componentizadas em React + Typescript, com integração de Auth via Clerk, seguindo os padrões mais modernos do mercado!
 
 ---
 
