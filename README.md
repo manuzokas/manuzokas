@@ -87,4 +87,4 @@
 📫 **Contact:**  
 - **Email**: manuella.rodrigues.dev@gmail.com  
 - **LinkedIn**: [linkedin.com/in/manuella-rodrigues](https://linkedin.com/in/manuella-rodrigues)  
-- **Portfolio**: [manuella.dev]([https://manuella.dev](https://manuzokas.github.io/portfolio/))
+- **Portfolio**: [manuella.dev](https://manuella.dev](https://manuzokas.github.io/portfolio/)
