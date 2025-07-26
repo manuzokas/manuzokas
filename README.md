@@ -8,11 +8,11 @@ Desenvolvedora especializada nas stacks **Java (Spring Boot)** e **React (TypeSc
 
 ## 🚀 Principais Stacks
 
-| **Back-End**            | **Front-End**             | **Banco de Dados**       | **Infra & DevOps**       |
-|-------------------------|---------------------------|---------------------------|---------------------------|
-| Java 17 · Spring Boot   | React · TypeScript        | PostgreSQL                | AWS (Certified)           |
-| JPA · Hibernate         | Tailwind CSS · Redux      | MongoDB · Neo4J           | Docker · GitHub Actions   |
-| REST APIs · MVC         | Clerk Auth Integration    | Modelagem · Performance   | Terraform (iniciante)     |
+| **Back-End**            | **Front-End**             | **Banco de Dados**         | **Infra & DevOps**       |
+|-------------------------|---------------------------|--------------------------- |---------------------------|
+| Java 17 · Spring Boot   | React · TypeScript        | Caching com Redis          | AWS (Certified)           |
+| JPA · Hibernate         | Tailwind CSS · Redux      | MongoDB · Neo4J · Postgres | Docker · GitHub Actions   |
+| REST APIs · MVC         | Clerk Auth Integration    | Modelagem · Performance    | Terraform (iniciante)     |
 
 ---
 
