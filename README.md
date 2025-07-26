@@ -2,7 +2,7 @@
 
 ### **FullStack Developer | Java & React Specialist | Future Software Architect**
 
-Desenvolvedora especializada nas stacks **Java (Spring Boot)** e **React (TypeScript)**, com experiência prática em projetos de e-commerce, autenticação, integrações via API e arquitetura modular. Possuo base sólida em **POO, arquitetura limpa, bancos relacionais/NoSQL** e **implantação em cloud (AWS)**. Atualmente em transição para me tornar uma **arquiteta de software**, estudando padrões de design, escalabilidade e boas práticas de engenharia moderna.
+Desenvolvedora especializada nas stacks **Java (Spring Boot)** e **React (TypeScript)**, com experiência prática em projetos de e-commerce, autenticação, integrações via API e arquitetura modular. Possuo base sólida em **POO, arquitetura limpa, bancos SQL e NoSQL** e **implantação em cloud (AWS)**. Atualmente em transição para me tornar uma **arquiteta de software**, estudando padrões de design, escalabilidade e boas práticas de engenharia moderna.
 
 ---
 
