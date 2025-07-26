@@ -80,7 +80,7 @@
 ---
 
 ## 📌 **Highlights**  
-- Projetou arquiteturas componentizadas em React + Typescript, com integração de Auth via Clerk, seguindo os padrões mais modernos do mercado!
+- Projetou arquiteturas componentizadas em React + Typescript, com integração de Auth via Clerk, e enfoque em e-commerces, seguindo os padrões mais modernos do mercado.
 
 ---
 
