@@ -1,5 +1,5 @@
 # Manuella Rodrigues  
-### **FullStack Developer | Cloud Architect | Java & React Specialist**  
+### **FullStack Developer | Java & React Specialist | Aspirant Architect**
 **Especialista em arquitetura de sistemas escaláveis**, com domínio em desenvolvimento FullStack (Spring Boot/Java + React/TS) e noções avançada em bancos de dados relacionais/PostgresSQL e NoSQL/MongoDB. Experiência em todo o ciclo de desenvolvimento - desde interfaces modernas até APIs robustas e **implantação em Cloud**, com foco em: **Arquitetura de Dados**, **Escalabilidade e Alta Disponibilidade** e **Persistência**.
 
 ---
