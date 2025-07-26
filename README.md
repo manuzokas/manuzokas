@@ -29,16 +29,18 @@ Desenvolvedora especializada nas stacks **Java (Spring Boot)** e **React (TypeSc
 - Domínio de conceitos como **clean architecture**, **camadas de serviço**, reuso e manutenção.
 - Experiência com **controle de versão com Git**, testes e integração contínua (CI/CD).
 
-### 🧠 **Projetos Acadêmicos com Inteligência Artificial**
-- Aplicação de algoritmos supervisionados e não supervisionados (KNN, K-Means, Decision Tree).
+### 🧠 **Projetos Acadêmicos**
+- Aplicação de algoritmos supervisionados e não supervisionados (KNN, K-Means, Decision Tree) em uma base de dados pública da NASA.
 - Trabalho com análise e classificação de dados via **Python + scikit-learn**.
+- Desenvolvimento de APIs REST robustas e testes via Imsomnia e Postman.
+- Desenvolvimento de um blog, com funcionalidades estilo Medium, com utilização de Redis para caching, MongoDB como banco de dados e Java como linguagem de programação. 
 
 ---
 
 ## ☁️ Certificação AWS
 
 <div align="left">
-  <img src="https://img.shields.io/badge/AWS_Cloud_Practitioner-certified-orange?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Certified">
+  <img src="[https://img.shields.io/badge/AWS_Cloud_Practitioner-certified-orange?style=for-the-badge&logo=amazonaws&logoColor=white](https://cp.certmetrics.com/amazon/en/public/verify/credential/9fa0fa5a120641849576230bb3bc09c3)" alt="AWS Certified">
 </div>
 
 ---
@@ -51,8 +53,8 @@ Aprofundar minha atuação como **engenheira de software com visão arquitetural
 
 ## 🧭 Repositórios em Destaque
 
-- 🔗 **[TCC - Dashboard React + Supabase](https://github.com/manuzokas/tcc-dashboard)**  
-  Dashboard moderno com autenticação via Clerk, Supabase como BaaS, e backend Node para webhooks.
+- 🔗 **[TCC - Dashboard React + Supabase](https://github.com/manuzokas/tcc-dashboard)**  (Rep em desenvolvimento, ainda privado)
+  Preview: Dashboard moderno com autenticação via Clerk, Supabase como BaaS, e backend Node para webhooks e Docker.
 
 - 🛍️ **[E-commerce Template - React + Tailwind](https://github.com/manuzokas/ecommerce-react-tailwind)**  
   Projeto de e-commerce responsivo com arquitetura baseada em Atomic Design.
