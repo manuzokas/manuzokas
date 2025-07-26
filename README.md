@@ -31,10 +31,20 @@ Desenvolvedora especializada nas stacks **Java (Spring Boot)** e **React (TypeSc
 
 ---
 
-### 🔁 **Back-End Java**
-- Desenvolvimento de APIs REST com **Spring Boot**, mapeamento **JPA/Hibernate**, PostgreSQL e MongoDB.
-- Domínio de conceitos como **clean architecture**, **camadas de serviço**, reuso e manutenção.
-- Experiência com **controle de versão com Git**, testes e integração contínua (CI/CD).
+### 🔁 **Experiência em Back-End Java**
+
+**Desenvolvimento de APIs REST robustas com foco em arquitetura limpa, performance e escalabilidade**
+
+- 🌐 Construção de **APIs RESTful** utilizando o ecossistema **Spring Boot**, com arquitetura baseada em **camadas (Controller, Service, Repository)** e princípios de **Clean Architecture**.
+- 🧩 Mapeamento de entidades com **JPA/Hibernate**, aplicação de estratégias de **lazy loading, fetch types**, e controle de relacionamentos complexos.
+- 🛢️ Integração com **bancos relacionais (PostgreSQL)** e **NoSQL (MongoDB, Neo4J)**, com foco em modelagem eficiente e otimização de queries.
+- 🔄 Implementação de padrões como **DTOs**, **mappers com ModelMapper/MapStruct**, e manipulação de exceções com `@ControllerAdvice`.
+- 📦 Versionamento de dependências com **Maven**, configuração de ambientes com **application.properties/YAML**, e separação de perfis (`dev`, `prod`, `test`).
+- 🧪 Escrita de **testes unitários (JUnit, Mockito)** e integração com **CI/CD pipelines** via **GitHub Actions**, garantindo entregas contínuas.
+- 🛠️ Domínio de ferramentas como **Git**, **Postman**, e **Insomnia** para versionamento e testes de APIs.
+- 🐳 Contêinerização de aplicações Java com **Docker**, e deploy em ambientes de nuvem como **AWS (EC2, RDS)**.
+
+---
 
 ### 🧠 **Projetos Acadêmicos**
 - Aplicação de algoritmos supervisionados e não supervisionados (KNN, K-Means, Decision Tree) em uma base de dados pública da NASA.
