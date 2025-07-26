@@ -18,14 +18,21 @@ Desenvolvedora especializada nas stacks **Java (Spring Boot)** e **React (TypeSc
 
 ## 💡 Experiências Técnicas Relevantes
 
-### 🧩 **Projetos em Ambientes Reais (Compass UOL - 2024/25)**
-- Desenvolvimento de **dashboards responsivos em React**, aplicando Tailwind, Redux Toolkit e Clerk Auth.
-- Adoção de **componentização atômica** com foco em design escalável.
-- Experiência com **APIs REST**, integrações externas e deploy em nuvem (AWS).
-- Participação em **squads ágeis**, com entrega contínua, alinhamentos e revisão de código.
+### 🧩 **Experiência Profissional – Compass UOL (2024/25)**  
+**Estagiária Front-end em projetos corporativos (E-commerce)**  
+<sub><em>Squads ágeis com práticas DevOps e foco em arquitetura moderna de interfaces</em></sub>
+
+- 🛒 Desenvolvimento de **aplicações web responsivas de e-commerce** com **React + TypeScript**, utilizando **Tailwind CSS** para estilização eficiente e reutilizável.
+- 🧱 Arquitetura front-end baseada em **componentização atômica (Atomic Design)** e separação de responsabilidades com **padrões modulares escaláveis**.
+- 🧠 Aplicação avançada de **Redux Toolkit** e **Context API** para gerenciamento de estado global, com uso criterioso de **memoization (`useMemo`, `useCallback`)** para evitar **re-renderizações desnecessárias** e otimizar a performance.
+- 🔐 Implementação de **autenticação segura via Clerk**, com integração de tokens e **rotas protegidas**.
+- ☁️ Deploys em ambiente de nuvem com **AWS (EC2/S3)**, versionamento com **Git**, pipelines com **GitHub Actions**, e containers em **Docker**.
+- 🤝 Participação ativa em **rituais Scrum**, incluindo code reviews, pair programming, refinamentos técnicos e documentação colaborativa.
+
+---
 
 ### 🔁 **Back-End Java**
-- Desenvolvimento de APIs REST com **Spring Boot**, **JPA/Hibernate**, PostgreSQL e MongoDB.
+- Desenvolvimento de APIs REST com **Spring Boot**, mapeamento **JPA/Hibernate**, PostgreSQL e MongoDB.
 - Domínio de conceitos como **clean architecture**, **camadas de serviço**, reuso e manutenção.
 - Experiência com **controle de versão com Git**, testes e integração contínua (CI/CD).
 
@@ -53,13 +60,16 @@ Aprofundar minha atuação como **engenheira de software com visão arquitetural
 
 ## 🧭 Repositórios em Destaque
 
-- 🔗 **[TCC - Dashboard React + Supabase](https://github.com/manuzokas/tcc-dashboard)**  (Rep em desenvolvimento, ainda privado)
-  Preview: Dashboard moderno com autenticação via Clerk, Supabase como BaaS, e backend Node para webhooks e Docker.
+- 🔗 **[TCC - Dashboard React + Supabase](https://github.com/manuzokas/tcc-codehabits)**  (Rep em desenvolvimento, ainda privado)
+  Preview: Dashboard moderno com autenticação via Clerk, Supabase como BaaS, mini-backend Node e configuração de webhooks + Docker.
 
-- 🛍️ **[E-commerce Template - React + Tailwind](https://github.com/manuzokas/ecommerce-react-tailwind)**  
-  Projeto de e-commerce responsivo com arquitetura baseada em Atomic Design.
+- 🛍️ **[E-commerce Template - React + Tailwind + Typescript](https://github.com/manuzokas/plants-peace-react-ecommerce)**  
+  Projeto de e-commerce responsivo para uma loja de venda de plantas, apresentado corporativamente como requisito obrigatório de desafio dentro da Compass UOL.
 
-- 🧪 **[Inteligência Artificial com Python](https://github.com/manuzokas/ia-projetos)**  
+- 🛍️ **[E-commerce Template - React + Tailwind](https://github.com/manuzokas/clothes-ecommerce-shop)**  
+  Projeto de e-commerce responsivo para uma loja de venda de roupas, apresentado corporativamente como requisito obrigatório de desafio dentro da Compass UOL.
+
+- 🧪 **[Inteligência Artificial com Python - NN, KNN, K-MEANS e Árvores de Decisão](Códigos encontrados em meu repositório)**  
   Algoritmos supervisionados e não supervisionados com visualizações e análise de clusters.
 
 ---
