@@ -1,90 +1,76 @@
-# Manuella Rodrigues  
-### **FullStack Developer | Java & React Specialist | Aspirant Architect**
-**Especialista em arquitetura de sistemas escaláveis**, com domínio em desenvolvimento FullStack (Spring Boot/Java + React/TS) e noções avançada em bancos de dados relacionais/PostgresSQL e NoSQL/MongoDB. Experiência em todo o ciclo de desenvolvimento - desde interfaces modernas até APIs robustas e **implantação em Cloud**, com foco em: **Arquitetura de Dados**, **Escalabilidade e Alta Disponibilidade** e **Persistência**.
+# 👩‍💻 Manuella Rodrigues
+
+### **FullStack Developer | Java & React Specialist | Future Software Architect**
+
+Desenvolvedora especializada nas stacks **Java (Spring Boot)** e **React (TypeScript)**, com experiência prática em projetos de e-commerce, autenticação, integrações via API e arquitetura modular. Possuo base sólida em **POO, arquitetura limpa, bancos relacionais/NoSQL** e **implantação em cloud (AWS)**. Atualmente em transição para me tornar uma **arquiteta de software**, estudando padrões de design, escalabilidade e boas práticas de engenharia moderna.
 
 ---
 
-## 🛠️ **Technical Expertise**  
+## 🚀 Principais Stacks
 
-### **Backend & Architecture**  
-**Spring Ecosystem** | **Microservices** | **Cloud-Native Apps**  
-- Arquitetura de APIs **RESTful/Padrão MVC** (Spring Web, JPA/Hibernate)  
-- Design de sistemas **monolíticos e microsserviços**
-- Otimização de performance: **caching (Redis)**  
-- **Spring Security** (JWT, OAuth2) e gestão transacional (`@Transactional`)  
+| **Back-End**            | **Front-End**             | **Banco de Dados**       | **Infra & DevOps**       |
+|-------------------------|---------------------------|---------------------------|---------------------------|
+| Java 17 · Spring Boot   | React · TypeScript        | PostgreSQL                | AWS (Certified)           |
+| JPA · Hibernate         | Tailwind CSS · Redux      | MongoDB · Neo4J           | Docker · GitHub Actions   |
+| REST APIs · MVC         | Clerk Auth Integration    | Modelagem · Performance   | Terraform (iniciante)     |
 
-<div align="left" style="margin-top: 10px;">
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white" alt="Spring Boot">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/JPA-007396?style=flat&logo=java&logoColor=white" alt="JPA">
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" alt="Redis">
+---
+
+## 💡 Experiências Técnicas Relevantes
+
+### 🧩 **Projetos em Ambientes Reais (Compass UOL - 2024/25)**
+- Desenvolvimento de **dashboards responsivos em React**, aplicando Tailwind, Redux Toolkit e Clerk Auth.
+- Adoção de **componentização atômica** com foco em design escalável.
+- Experiência com **APIs REST**, integrações externas e deploy em nuvem (AWS).
+- Participação em **squads ágeis**, com entrega contínua, alinhamentos e revisão de código.
+
+### 🔁 **Back-End Java**
+- Desenvolvimento de APIs REST com **Spring Boot**, **JPA/Hibernate**, PostgreSQL e MongoDB.
+- Domínio de conceitos como **clean architecture**, **camadas de serviço**, reuso e manutenção.
+- Experiência com **controle de versão com Git**, testes e integração contínua (CI/CD).
+
+### 🧠 **Projetos Acadêmicos com Inteligência Artificial**
+- Aplicação de algoritmos supervisionados e não supervisionados (KNN, K-Means, Decision Tree).
+- Trabalho com análise e classificação de dados via **Python + scikit-learn**.
+
+---
+
+## ☁️ Certificação AWS
+
+<div align="left">
+  <img src="https://img.shields.io/badge/AWS_Cloud_Practitioner-certified-orange?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Certified">
 </div>
 
 ---
 
-### **Frontend**  
-**React (TypeScript/Javascript)** | **Next.js** | **State Management** | **Tailwind**  
-- Componentização atômica e **design systems** escaláveis  
-- Gerenciamento de estados globais e complexos com **Redux Toolkit + Context API**  
-- Domínio de memoization (useMemo/useCallback), virtualização de listas e redução de re-renders desnecessários  
-- Styling com **Tailwind CSS** e acessibilidade  
+## 🎯 Objetivo Atual
 
-<div align="left" style="margin-top: 10px;">
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white" alt="Tailwind">
-</div>
+Aprofundar minha atuação como **engenheira de software com visão arquitetural**, combinando front-end moderno com back-end robusto, banco de dados eficiente e infraestrutura em nuvem. Estou estruturando minha jornada para assumir futuramente o papel de **arquiteta de software**, com ênfase em sistemas escaláveis, desacoplados e bem projetados.
 
 ---
 
-### **Data Layer**  
-**PostgreSQL** | **MongoDB** | **ORM/JPA**  
-- Modelagem relacional e **otimização de queries**
-- Bancos **poliglotas** (SQL + NoSQL) para casos de uso específicos  
-- **Redis** para cache distribuído e alta disponibilidade  
+## 🧭 Repositórios em Destaque
 
-<div align="left" style="margin-top: 10px;">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB">
-  <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white" alt="Hibernate">
-</div>
+- 🔗 **[TCC - Dashboard React + Supabase](https://github.com/manuzokas/tcc-dashboard)**  
+  Dashboard moderno com autenticação via Clerk, Supabase como BaaS, e backend Node para webhooks.
 
----
+- 🛍️ **[E-commerce Template - React + Tailwind](https://github.com/manuzokas/ecommerce-react-tailwind)**  
+  Projeto de e-commerce responsivo com arquitetura baseada em Atomic Design.
 
-### **Cloud & DevOps**  
-**AWS | Terraform | Docker**
-- Serviços EC2, S3, RDS, Lambda e VPC
-- Arquitetura resiliente com Multi-AZ, Load Balancing e auto-scaling 
-- Conceitos de arquitetura cloud: Escalabilidade, tolerância a falhas e segurança  
-- Deploy de aplicações em containers (Docker) e orquestração básica  
-- Automação de infraestrutura com Terraform (HCL)  
-
-<div align="left" style="margin-top: 10px;">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" alt="AWS">
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white" alt="Terraform">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker">
-</div>
+- 🧪 **[Inteligência Artificial com Python](https://github.com/manuzokas/ia-projetos)**  
+  Algoritmos supervisionados e não supervisionados com visualizações e análise de clusters.
 
 ---
 
-## 🔍 **Core Stack (Principais)**  
+## 📫 Contato
 
-| **Backend**       | **Frontend**     | **Data**          | **Infra e DEVOPS**        |  
-|-------------------|------------------|-------------------|------------------|  
-| Java              | React (TS)       | PostgreSQL        | AWS              |  
-| Spring Boot       | Next.js          | MongoDB           | Docker           |  
-| REST API'S        | Redux Toolkit    | JPA/Hibernate     | Terraform        |  
-| Microservices     | Tailwind CSS     | Redis             | CI/CD (GitHub Actions) |  
+- 💼 [LinkedIn](https://linkedin.com/in/manuella-rodrigues)  
+- 🌐 [Portfólio](https://manuzokas.github.io/portfolio/)  
+- 📧 manuella.rodrigues.dev@gmail.com  
+- 🖥️ [GitHub](https://github.com/manuzokas)  
 
 ---
 
-## 📌 **Highlights**  
-- Projetou arquiteturas componentizadas em React + Typescript, com integração de Auth via Clerk, e enfoque em e-commerces, seguindo os padrões mais modernos do mercado.
-
----
-
-📫 **Contact:**  
-- **Email**: manuella.rodrigues.dev@gmail.com  
-- **LinkedIn**: [linkedin.com/in/manuella-rodrigues](https://linkedin.com/in/manuella-rodrigues)  
-- **Portfolio**: [manuella.dev](https://manuzokas.github.io/portfolio/)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38B2AC,100:4A5568&height=150&section=footer" />
+</p>
