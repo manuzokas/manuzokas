@@ -1,4 +1,4 @@
-# 👩‍💻 Manuella Rodrigues
+# Manuella Rodrigues
 
 ### **FullStack Developer | Java & React Specialist | Future Software Architect**
 
