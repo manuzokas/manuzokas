@@ -3,7 +3,7 @@
 
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/79731568097599.5b50bca477735.jpg">
 
- [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=manuzokas&data=followers,repositories,stars,commits&theme=default)](https://github.com/manuzokas/github-widgetbox)
+ [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=manuzokas&data=followers,repositories,stars,commits&theme=dark)](https://github.com/manuzokas/github-widgetbox)
  </div>
 
 <div align="center">
