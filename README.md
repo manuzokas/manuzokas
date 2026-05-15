@@ -29,9 +29,9 @@ I am a Software Engineer focused on high-availability web/mobile architectures a
 
 ### Core Stack / Tecnologias
 
-**Languages & Frameworks:** Java • Python • TypeScript • Node.js • React • React Native  
-**Cloud & DevOps:** AWS (EC2, Lambda, RDS) • Docker • CI/CD Pipelines  
-**Data & Machine Learning:** Deep Learning • XGBoost • SHAP • Scikit-Learn • PostgreSQL • NoSQL  
+**Languages & Frameworks:** Java (Spring Boot) • Python (FastAPI) • TypeScript • React • Vue  
+**Cloud & DevOps:** AWS (EC2, Lambda, SageMaker) • Docker • CI/CD (GitHub Actions)  
+**Data & Machine Learning:** XGBoost • SHAP • Scikit-Learn • Pandas • PostgreSQL   
 
 ---
 
